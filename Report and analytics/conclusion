@@ -1,0 +1,35 @@
+The current research was aimed at exploring the meteorological predictors of
+storm-related heavy rainage using an organized applied data science framework. The
+project was able to develop a scientifically interpretable and computationally sound
+understanding of storm formation dynamics through the integration of real world
+atmospheric data, statistical analysis, visualization technique, feature selection methods
+and machine learning modelling.
+The main result of the analysis was that the indicators of atmospheric moisture
+have been identified treatment at specific humidity, dew point, and relative humidity as
+the most significant predictors of the occurrence of storms. These variables always
+showed a strong positive correlation with heavy rainfall events of both filter-based and
+wrapper-based feature selection procedures. Surface pressure, in its turn, had a strong
+negative correlation that supported the known meteorological principle of storm
+systems being closely linked to low-pressure zones, which facilitate the accumulation of
+vertical air and the processes of the condensation of the air.
+The modeling step also emphasized the necessity of making suitable choices of
+assessment measures in the case of unbalanced environmental data. Even the highest
+overall accuracy of all the classification models was not found to be satisfactory to
+determine the potential ability in practice. Ensemble-oriented procedures, specifically
+the Random Forest classifier, were found to perform better in balancing between the
+storm detection performance and prediction accuracy in terms of high F1-Score and
+ROC-AUC values. The observation indicates that ensemble learning methods are
+effective in modelling non-linear interactions in the atmosphere.
+  In addition to predictive performance, the research was focused on
+interpretability and correspondence to physical atmosphere processes, such that
+analytical results were not just statistical contrivances but significant expressions of
+storm processes. The visualization-based exploratory analysis further enhanced the
+generation of insights that indicated seasonal patterns, extreme rainfall peaks, and
+moisture-pressure interactions that are typical of cyclone-prone coastal settings.
+Finally, the project shows that the application of data science methodologies can
+be used to complement traditional meteorological analysis through a quantitative
+verification of the drivers of storm formation and data predictive frameworks. The
+knowledge created can be used in better climate risk analysis, preparedness to disasters,
+and future studies on more advanced modeling tools or imbalance management
+approaches. On the whole, the research provides a detailed analytical platform on how
+heavy precipitations can be analyzed and predicted in risky areas.
